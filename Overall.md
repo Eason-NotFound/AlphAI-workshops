@@ -1,9 +1,9 @@
 # AlphAI-workshops
 Documentation and designed workshops for the French robot AlphAI
 ## Basic contents
-* Remote Control(code and manual handbook)
+* Remote Control(code)
 * Camera Nevigation(code and manual handbook)
-* AlphAI API documentation
+* AlphAI API Library(code and manual handbook)
 ## References
 Releted references are from https://www.learningrobots.ai/en/categories/alphai including:
 1. Activity: Remote-controlled AlphAI
