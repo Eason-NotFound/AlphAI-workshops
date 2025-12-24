@@ -118,3 +118,10 @@ This project demonstrates:
 * Unified control interface design
 * Multi-robot coordination and communication
 
+---
+
+## 9. Author
+
+**Yichen Qu**
+
+This project was developed for academic and educational purposes.
