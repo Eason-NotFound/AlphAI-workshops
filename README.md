@@ -125,3 +125,11 @@ This project demonstrates:
 **Yichen Qu**
 
 This project was developed for academic and educational purposes.
+
+---
+
+## 10. Reference
+
+1.	https://www.learningrobots.ai/en/categories/alphai
+2.	https://etchk.screenstepslive.com/s/codingnstem
+
